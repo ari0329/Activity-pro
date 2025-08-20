@@ -4,7 +4,7 @@
  * Plugin URI: http://example.com/custom-activity-manager
  * Description: A simple activity management plugin for WordPress with shortcode support (Network Sites Compatible)
  * Version: 2.0.1
- * Author: Hallienz
+ * Author: ari2903
  * Text Domain: custom-activity-manager
  */
 
